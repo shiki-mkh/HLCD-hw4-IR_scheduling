@@ -1,0 +1,10 @@
+10 10 9
+store 1 18 20
+store 1 21 14
+store 2 21 19
+xor 16 16
+xor 15 24
+muli 18 11
+xor 21 21
+xor 12 18
+xor 11 22
